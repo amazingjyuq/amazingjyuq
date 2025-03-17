@@ -21,7 +21,7 @@ $ go build 并发执念     # Golang
 
 # 前端必备（防脱发套装）
 $ npm install vue@脑细胞再生版 echarts@可视化仙丹 element-plus@颜值正义
-```
+```mermaid
 gantt
     title 技能修炼时间线
     dateFormat  YYYY-MM

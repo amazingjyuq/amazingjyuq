@@ -41,12 +41,12 @@ class 物联网泡面机:
 ## 🧩 技术拼图
 
 ```markdown
-| 领域           | 技术栈                          | 危险指数         |
-|----------------|--------------------------------|-----------------|
-| **后端开发**   | `Python` `Java` `Go`           | :zap: :zap: :zap: :zap:   |
-| **前端魔法**   | `Vue3` `Echarts` `DAG`         | :boom: :boom: :boom:      |
-| **物联网**     | `MQTT` `Protobuf` `二进制拆解`  | :fire: :fire: :fire: :fire:   |
-| **AI修炼**     | `LLM` `OpenCV` `GAN`           | :comet: :comet: :comet: :comet: :comet: |
+| 领域           | 技术栈                          | 危险指数 |
+|----------------|--------------------------------|---------|
+| **后端开发**   | `Python` `Java` `Go`           | ⚡×4     |
+| **前端魔法**   | `Vue3` `Echarts` `DAG`         | 💥×3     |
+| **物联网**     | `MQTT` `Protobuf` `二进制拆解`  | 🔥×4     |
+| **AI修炼**     | `LLM` `OpenCV` `GAN`           | ☄️×5     |
 ```
 
 ## 📜 代码哲学

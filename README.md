@@ -1,5 +1,4 @@
 ```markdown
-<!-- 完整可运行的README.md模板 -->
 # 🤖 究极自动机 · Jyuq 
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" align="right">

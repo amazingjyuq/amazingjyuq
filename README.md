@@ -43,10 +43,10 @@ class 物联网泡面机:
 ```markdown
 | 领域         | 技术栈                        | 熟练度  |
 |--------------|------------------------------|---------|
-| 后端开发     | Python, Java, Go              | ⬛⬛⬛⬛⬜ |
-| 前端开发     | Vue3, Echarts, DAG            | ⬛⬛⬛⬜⬜ |
-| 物联网       | MQTT, Protobuf, 二进制协议     | ⬛⬛⬛⬜⬜ |
-| AI/ML        | LLM, OpenCV, GAN              | ⬛⬛⬜⬜⬜ |
+| 后端开发     | Python Java Go               | █████░░ |
+| 前端开发     | Vue3 Echarts DAG             | ████░░░ |
+| 物联网       | MQTT Protobuf 二进制协议      | ███░░░░ |
+| AI/ML        | LLM OpenCV GAN               | ██░░░░░ |
 ```
 
 ## 📜 代码哲学

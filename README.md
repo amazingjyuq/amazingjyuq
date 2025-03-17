@@ -21,3 +21,24 @@ $ go build 并发执念     # Golang
 
 # 前端必备（防脱发套装）
 $ npm install vue@脑细胞再生版 echarts@可视化仙丹 element-plus@颜值正义
+
+gantt
+    title 技能修炼时间线
+    dateFormat  YYYY-MM
+    section 后端
+    Python九阴真经        :done, 2020-01, 2021-06
+    Java内功心法          :done, 2021-07, 2022-03
+    Go语言辟邪剑谱        :active, 2022-04, 2023-12
+
+    section 前端
+    Vue.js御剑术         :done, 2021-03, 2022-02
+    Echarts炼丹术        :crit, active, 2022-05, 2023-05
+
+    section 玄学
+    大模型调参玄学       :active, 2023-01, 2023-12
+    物联网协议暗语       :2023-06, 2024-12
+
++ 成功让Python协程学会了影分身之术
+- 紧急修复Java OOM导致的内存泄漏黑洞
+! Vue3响应式系统突然对咖啡因产生依赖（待解决）
++ 给Go程增加了防暴走保险装置

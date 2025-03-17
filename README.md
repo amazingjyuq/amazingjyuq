@@ -47,7 +47,7 @@ class 物联网泡面机:
 | 前端开发     | Vue3, Echarts, DAG           | ████░░░ |
 | 物联网       | MQTT, Protobuf, 二进制协议    | ███░░░░ |
 | AI/ML        | LLM, OpenCV, GAN             | ██░░░░░ |
-
+```
 ## 📜 代码哲学
 
 ```go

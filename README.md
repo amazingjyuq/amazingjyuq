@@ -1,8 +1,4 @@
 ```markdown
-# 🤖 究极自动机 · Jyuq 
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" align="right">
-
 ```bash
 # 每日开机自检
 $ ./jyuq --status
